@@ -1,0 +1,14 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+Machine Learning (ML) is a subset of AI where systems learn from data without
+being explicitly programmed. Instead of writing rules, you give the system
+examples and it figures out the patterns.
+
+Deep Learning is a subset of ML that uses neural networks with many layers.
+These "deep" networks can learn very complex patterns, which is why they're
+so good at things like image recognition and language understanding.
+
+Large Language Models (LLMs) are deep learning models trained on massive
+amounts of text data. They learn to predict the next word in a sequence,
+and through this simple task, they develop a broad understanding of language,
+facts, and reasoning. GPT, Claude, and LLaMA are examples of LLMs.

@@ -1,0 +1,5 @@
+language,year_created,creator,paradigm
+Python,1991,Guido van Rossum,Multi-paradigm
+JavaScript,1995,Brendan Eich,Multi-paradigm
+Rust,2010,Graydon Hoare,Systems
+Go,2009,"Robert Griesemer, Rob Pike, Ken Thompson",Compiled
